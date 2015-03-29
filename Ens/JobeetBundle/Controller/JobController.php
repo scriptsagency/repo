@@ -23,6 +23,7 @@ class JobController extends Controller
     {
           $em = $this->getDoctrine()->getManager(); 
           
+          
           $categories = $em->getRepository('EnsJobeetBundle:Category')->getWithJobs();
 
           foreach ($categories as $category) {
