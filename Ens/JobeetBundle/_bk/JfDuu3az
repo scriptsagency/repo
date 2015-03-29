@@ -1,0 +1,192 @@
+2<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <<title>Jobeet</title>
+  <subtitle>Latest Jobs</subtitle>
+  <link href="http://localhost:8000/job/?_format=atom" rel="self"/>
+  <link href="http://localhost:8000/"/>
+  <updated>2015-03-16T18:21:23+01:00</updated>
+  <author><name>Jobeet</name></author>
+  <id>da8e02514b54720195ea679d64f3001a31d418bb</id>
+ 
+        <entry>
+      <title>Web Developer (Paris, France)</title>
+      <link href="http://localhost:8000/job/company-102/paris-france/3/web-developer" />
+      <id>3</id>
+      <updated>2015-03-16T13:04:44+01:00</updated>
+      <summary type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+                    <div>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          </div>
+          <h4>How to apply?</h4>
+          <p>Send your resume to lorem.ipsum [at] dolor.sit</p>
+        </div>
+      </summary>
+      <author><name>Company 102</name></author>
+    </entry>
+      <entry>
+      <title>Web Developer (Paris, France)</title>
+      <link href="http://localhost:8000/job/company-104/paris-france/5/web-developer" />
+      <id>5</id>
+      <updated>2015-03-16T13:04:44+01:00</updated>
+      <summary type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+                    <div>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          </div>
+          <h4>How to apply?</h4>
+          <p>Send your resume to lorem.ipsum [at] dolor.sit</p>
+        </div>
+      </summary>
+      <author><name>Company 104</name></author>
+    </entry>
+      <entry>
+      <title>Web Developer (Paris, France)</title>
+      <link href="http://localhost:8000/job/company-105/paris-france/6/web-developer" />
+      <id>6</id>
+      <updated>2015-03-16T13:04:44+01:00</updated>
+      <summary type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+                    <div>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          </div>
+          <h4>How to apply?</h4>
+          <p>Send your resume to lorem.ipsum [at] dolor.sit</p>
+        </div>
+      </summary>
+      <author><name>Company 105</name></author>
+    </entry>
+      <entry>
+      <title>Web Developer (Paris, France)</title>
+      <link href="http://localhost:8000/job/company-106/paris-france/7/web-developer" />
+      <id>7</id>
+      <updated>2015-03-16T13:04:44+01:00</updated>
+      <summary type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+                    <div>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          </div>
+          <h4>How to apply?</h4>
+          <p>Send your resume to lorem.ipsum [at] dolor.sit</p>
+        </div>
+      </summary>
+      <author><name>Company 106</name></author>
+    </entry>
+      <entry>
+      <title>Web Developer (Paris, France)</title>
+      <link href="http://localhost:8000/job/company-107/paris-france/8/web-developer" />
+      <id>8</id>
+      <updated>2015-03-16T13:04:44+01:00</updated>
+      <summary type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+                    <div>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          </div>
+          <h4>How to apply?</h4>
+          <p>Send your resume to lorem.ipsum [at] dolor.sit</p>
+        </div>
+      </summary>
+      <author><name>Company 107</name></author>
+    </entry>
+      <entry>
+      <title>Web Developer (Paris, France)</title>
+      <link href="http://localhost:8000/job/company-108/paris-france/9/web-developer" />
+      <id>9</id>
+      <updated>2015-03-16T13:04:44+01:00</updated>
+      <summary type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+                    <div>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          </div>
+          <h4>How to apply?</h4>
+          <p>Send your resume to lorem.ipsum [at] dolor.sit</p>
+        </div>
+      </summary>
+      <author><name>Company 108</name></author>
+    </entry>
+      <entry>
+      <title>Web Developer (Paris, France)</title>
+      <link href="http://localhost:8000/job/company-109/paris-france/10/web-developer" />
+      <id>10</id>
+      <updated>2015-03-16T13:04:44+01:00</updated>
+      <summary type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+                    <div>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          </div>
+          <h4>How to apply?</h4>
+          <p>Send your resume to lorem.ipsum [at] dolor.sit</p>
+        </div>
+      </summary>
+      <author><name>Company 109</name></author>
+    </entry>
+      <entry>
+      <title>Web Developer (Paris, France)</title>
+      <link href="http://localhost:8000/job/company-110/paris-france/11/web-developer" />
+      <id>11</id>
+      <updated>2015-03-16T13:04:44+01:00</updated>
+      <summary type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+                    <div>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          </div>
+          <h4>How to apply?</h4>
+          <p>Send your resume to lorem.ipsum [at] dolor.sit</p>
+        </div>
+      </summary>
+      <author><name>Company 110</name></author>
+    </entry>
+      <entry>
+      <title>Web Developer (Paris, France)</title>
+      <link href="http://localhost:8000/job/company-111/paris-france/12/web-developer" />
+      <id>12</id>
+      <updated>2015-03-16T13:04:44+01:00</updated>
+      <summary type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+                    <div>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          </div>
+          <h4>How to apply?</h4>
+          <p>Send your resume to lorem.ipsum [at] dolor.sit</p>
+        </div>
+      </summary>
+      <author><name>Company 111</name></author>
+    </entry>
+      <entry>
+      <title>Web Developer (Paris, France)</title>
+      <link href="http://localhost:8000/job/company-112/paris-france/13/web-developer" />
+      <id>13</id>
+      <updated>2015-03-16T13:04:44+01:00</updated>
+      <summary type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+                    <div>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          </div>
+          <h4>How to apply?</h4>
+          <p>Send your resume to lorem.ipsum [at] dolor.sit</p>
+        </div>
+      </summary>
+      <author><name>Company 112</name></author>
+    </entry>
+        <entry>
+      <title>manager (bucharest)</title>
+      <link href="http://localhost:8000/job/test1/bucharest/32/manager" />
+      <id>32</id>
+      <updated>2015-03-16T18:21:23+01:00</updated>
+      <summary type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+                      <div>
+              <a href="www.scriptsagency.com">
+                <img src="http://localhost/uploads/jobs/550711136da93.gif" alt="Test1 logo" />
+              </a>
+            </div>
+                    <div>
+            this is a manager positions
+          </div>
+          <h4>How to apply?</h4>
+          <p>by email</p>
+        </div>
+      </summary>
+      <author><name>Test1</name></author>
+    </entry>
+  </feed>

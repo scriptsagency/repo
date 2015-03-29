@@ -1,0 +1,30 @@
+ens_jobeet_job:
+    resource: "@EnsJobeetBundle/Resources/config/routing/job.yml"
+    prefix:   /job
+
+ens_jobeet_homepage:
+    path:     /hellojob/{name}
+    defaults: { _controller: EnsJobeetBundle:Default:index }
+    
+job_homepage:
+    pattern:  /
+    defaults: { _controller: EnsJobeetBundle:Job:index }    
+    
+job_category:
+    pattern: /category/{slug}/{page}
+    defaults: { _controller: EnsJobeetBundle:Category:show, page: 1 }  
+login:
+    pattern:   /login
+    defaults:  { _controller: EnsJobeetBundle:Default:login }
+login_check:
+    pattern:   /login_check  
+logout:
+    pattern:   /logout    
+static_page:
+     path: /documentation
+     defaults:
+       _controller: FrameworkBundle:Template:template
+       template: EnsJobeetBundle:Default:documentation.html.twig
+       #maxAge: 86400
+       #sharedMaxAge: 86400
+    
